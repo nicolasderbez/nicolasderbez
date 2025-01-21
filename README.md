@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello, world! 👋
+
+My name is Nicolás Derbez and I'm a Software Developer @ GE Vernova. 
+
+This is my personal repository, where I upload the projects I work on in my free time, community service projects, etcetera.
+
+
+
 
 <!--
 **nicolasderbez/nicolasderbez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
